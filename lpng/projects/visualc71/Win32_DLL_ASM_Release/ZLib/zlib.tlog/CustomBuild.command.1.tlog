@@ -1,0 +1,4 @@
+^K:\MATRIX\MATRIX_FAL1843801242005\MATRIX FALL X\BACKUP\LIBPNG-1.2.37-SRC\SRC\LIBPNG\1.2.37\ZLIB\CONTRIB\MASMX86\GVMAT32.ASM
+ml /nologo /c /Cx /coff /Fo".\Win32_DLL_ASM_Release\ZLib\gvmat32.obj" "K:\MATRIX\MATRIX_FAL1843801242005\Matrix Fall X\Backup\libpng-1.2.37-src\src\libpng\1.2.37\zlib\contrib\masmx86\gvmat32.asm"
+^K:\MATRIX\MATRIX_FAL1843801242005\MATRIX FALL X\BACKUP\LIBPNG-1.2.37-SRC\SRC\LIBPNG\1.2.37\ZLIB\CONTRIB\MASMX86\INFFAS32.ASM
+ml /nologo /c /Cx /coff /Fo".\Win32_DLL_ASM_Release\ZLib\inffas32.obj" "K:\MATRIX\MATRIX_FAL1843801242005\Matrix Fall X\Backup\libpng-1.2.37-src\src\libpng\1.2.37\zlib\contrib\masmx86\inffas32.asm"
